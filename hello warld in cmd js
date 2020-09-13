@@ -1,0 +1,19 @@
+Microsoft Windows [Version 10.0.18363.1016]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\neruk>node --version
+v12.18.3
+
+C:\Users\neruk>node
+Welcome to Node.js v12.18.3.
+Type ".help" for more information.
+> 2+2
+4
+> console.log["hello js"]
+undefined
+> console.log["hellojs"];
+undefined
+> console.log("hello");
+hello
+undefined
+>  
