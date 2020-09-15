@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<title>Web Page Design</title>
+<head>
+<script>
+function sayHello() {
+   document.write("Hello, Coding Ground!");
+   document.getElementById('hello').innerHTML='Hello';
+}
+sayHello();
+</script>
+</head>
+
+
+<body>
+    
+<h1> id="hello"</h1>    
+<script type=text/JavaScript>
+
+   document.getElementById('hello').innerHTML='Hello';
+
+</script>
+    
+</body>
+</html>
