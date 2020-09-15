@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <title>Web Page Design</title>
+
 <head>
 <script>
 function sayHello() {
@@ -10,13 +11,11 @@ function sayHello() {
 sayHello();
 </script>
 </head>
+
 <body>
 <h1> id="hello"</h1>    
 <script type=text/JavaScript>
-
    document.getElementById('hello').innerHTML='Hello';
-
-</script>
-    
+</script>   
 </body>
 </html>
