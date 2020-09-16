@@ -1,0 +1,9 @@
+<script type = "text/JavaScript">
+var x1=10;
+var x2=20;
+var add=x1+x2;
+document.write(add+"<br/>");
+
+document.getElementById('hello').innerHTML='Hello';
+
+</script>
