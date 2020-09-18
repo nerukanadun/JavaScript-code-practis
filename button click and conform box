@@ -1,7 +1,4 @@
-</script>
-</head>
-<body>    
-<h1 id="hello"></h1>  
+  
 <p> Click the button to display a confirm box.</p>
 
 <button onclick="myFunction()">Button</button>  
