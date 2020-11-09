@@ -1,0 +1,34 @@
+/* console.log("Good evening");
+} 
+Task
+
+You are given a variable marks. Your task is to print:
+
+- AA if marks is greater than .
+- AB if marks is greater than  and less than or equal to .
+- BB if marks is greater than  and less than or equal to .
+- BC if marks is greater than  and less than or equal to .
+- CC if marks is greater than  and less than or equal to .
+- CD if marks is greater than  and less than or equal to .
+- DD if marks is greater than  and less than or equal to .
+- FF if marks is less than or equal to . 
+*/
+
+if (marks > 90) {
+    console.log("AA");
+} else if (marks > 80) {
+    console.log("AB");
+}else if (marks > 70) {
+    console.log("BB");
+}else if (marks > 60) {
+    console.log("BC");
+}else if (marks > 50) {
+    console.log("CC");
+}else if (marks > 40) {
+    console.log("CD");
+}else if (marks > 30) {
+    console.log("DD");
+} else {
+    console.log("FF");
+} 
+
