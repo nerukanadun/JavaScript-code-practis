@@ -17,6 +17,7 @@ sayHello();
 <h1> id="hello"</h1>    
 <script type=text/JavaScript>
 
+
    document.getElementById('hello').innerHTML='Hello';
 </script>   
 </body>
