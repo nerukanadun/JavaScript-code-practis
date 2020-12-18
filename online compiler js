@@ -4,7 +4,12 @@
 
 <head>
 
-
+<script>
+function sayHello() {
+   document.write("Hello, Coding Ground!");
+   
+   document.getElementById('hello').innerHTML='Hello';
+}
 sayHello();
 
 </script>
