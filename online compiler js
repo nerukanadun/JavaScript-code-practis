@@ -3,6 +3,7 @@
 <title>Web Page Design</title>
 
 <head>
+
 <script>
 function sayHello() {
    document.write("Hello, Coding Ground!");
