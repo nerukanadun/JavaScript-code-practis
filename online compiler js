@@ -9,6 +9,7 @@ function sayHello() {
    document.getElementById('hello').innerHTML='Hello';
 }
 sayHello();
+
 </script>
 </head>
 
